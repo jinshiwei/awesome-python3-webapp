@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Testing database. This is only a exmaple.
+Testing database. This is only an example.
 '''
 
 __author__ = 'Shiwei Jin'
