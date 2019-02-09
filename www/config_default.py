@@ -11,10 +11,10 @@ configs = {
     'debug': True,
     'db': {
         'host': 'localhost',
-        'port': 3307,
-        'user': 'www',
-        'password': 'www',
-        'db': 'www'
+        'port': 3306,
+        'user': 'www-data',
+        'password': 'www-data',
+        'db': 'awesome'
     },
     'session': {
         'secret': 'Awesome'
